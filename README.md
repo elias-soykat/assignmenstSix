@@ -1,5 +1,6 @@
 ## Awesome-fancy-slider
 
-### awesome fancy slider is dynamic image loader and generating nice slide based on your seleced image.. basically i used https://pixabay.com/api/docs/ 
+### awesome fancy slider is dynamic image loader and generating nice slide based on your seleced image.. basically i used [Pixby api for dynamic loading image] https://pixabay.com/api/docs/ 
 
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+and i also use a awsome spinner that projexts
+
